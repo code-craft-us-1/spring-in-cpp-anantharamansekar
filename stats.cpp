@@ -12,5 +12,5 @@ Stats Statistics::ComputeStatistics(const std::vector<double>& elements) {
         result.min = *(std::min(elements.begin(), elements.end()));
         result.max = *(std::max(elements.begin(), elements.end()));
 
-    return result;
+    return result; 
 }

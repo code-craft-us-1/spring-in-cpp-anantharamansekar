@@ -7,7 +7,7 @@ namespace Statistics {
     {
         double average;
         double max;
-        double min;
+        double min; 
     };
         
     
